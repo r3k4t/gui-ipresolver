@@ -15,7 +15,6 @@ A simple software which find out any website ip address in internet.Its build on
 <h6>Linux</h6>
 
 + sudo apt install python3-tk
-+ sudo pip3 install -r requirements.txt
 
 <h6>Windows</h6>
 

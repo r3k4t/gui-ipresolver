@@ -8,7 +8,7 @@
 
 <h6>Author :RKT</h6>
 
-A simple software to find out any website ip address in internet.Its build on python program.It can help to build software on python program.
+A simple software to find out any website ip address in internet.Its build on python program.
 
 ### Setup[PIP MODULE] ###
 
